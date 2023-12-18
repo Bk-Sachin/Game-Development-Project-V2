@@ -1,5 +1,5 @@
 # Apocalypse
-******************************//ABOUT-THE-GAME\\***************************************************************
+******************************//ABOUT-THE-GAME\\******************************************
 
 \\\\\\\ Apocalypse is a shooting game with zombie, horror, and survival subgenres that 		    	\\\\\\\
 \\\\\\\ involves fighting against hordes of zombies. This game involves a post-apocalyptic		  \\\\\\\ 
